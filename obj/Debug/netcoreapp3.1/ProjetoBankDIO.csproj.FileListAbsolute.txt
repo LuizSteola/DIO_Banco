@@ -1,0 +1,13 @@
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\obj\Debug\netcoreapp3.1\ProjetoBankDIO.csprojAssemblyReference.cache
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\obj\Debug\netcoreapp3.1\ProjetoBankDIO.AssemblyInfoInputs.cache
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\obj\Debug\netcoreapp3.1\ProjetoBankDIO.AssemblyInfo.cs
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\obj\Debug\netcoreapp3.1\ProjetoBankDIO.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\bin\Debug\netcoreapp3.1\ProjetoBankDIO.exe
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\bin\Debug\netcoreapp3.1\ProjetoBankDIO.deps.json
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\bin\Debug\netcoreapp3.1\ProjetoBankDIO.runtimeconfig.json
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\bin\Debug\netcoreapp3.1\ProjetoBankDIO.runtimeconfig.dev.json
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\bin\Debug\netcoreapp3.1\ProjetoBankDIO.dll
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\bin\Debug\netcoreapp3.1\ProjetoBankDIO.pdb
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\obj\Debug\netcoreapp3.1\ProjetoBankDIO.dll
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\obj\Debug\netcoreapp3.1\ProjetoBankDIO.pdb
+C:\CursoDotNet\ProjetoBank\ProjetoBankDIO\obj\Debug\netcoreapp3.1\ProjetoBankDIO.genruntimeconfig.cache
